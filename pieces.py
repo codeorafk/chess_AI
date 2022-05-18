@@ -1,4 +1,4 @@
-import board, ai
+import board as board, ai as ai
 
 class Piece():
 

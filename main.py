@@ -1,4 +1,4 @@
-import board, pieces, ai
+import board as board, pieces, ai as ai
 
 # Returns a move object based on the users input. Does not check if the move is valid.
 def get_user_move():
